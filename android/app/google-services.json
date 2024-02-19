@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805885035519",
+    "project_id": "cld-todo",
+    "storage_bucket": "cld-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805885035519:android:f0637a11172341f0665dca",
+        "android_client_info": {
+          "package_name": "com.clddesign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzqVu7KsHMXU-XvEiLB4M3edczjnPfis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+export default {
+  ic_app_logo: require('../res/images/ic_app_logo.png'),
+  ic_lock: require('../res/images/ic_lock.png'),
+  ic_profile: require('../res/images/ic_profile.png'),
+  ic_user: require('../res/images/ic_user.png'),
+  ic_filter: require('../res/images/ic_filter.png'),
+  ic_menu: require('../res/images/ic_menu.png'),
+  ic_history: require('../res/images/ic_history.png'),
+  ic_notification: require('../res/images/ic_notification.png'),
+  ic_plus: require('../res/images/ic_plus.png'),
+  ic_clock: require('../res/images/ic_clock.png'),
+  ic_cross: require('../res/images/ic_cross.png'),
+  ic_left_menu: require('../res/images/ic_left_menu.png'),
+  ic_add_people: require('../res/images/ic_add_people.png'),
+  ic_back: require('../res/images/ic_back.png'),
+  ic_login: require('../res/images/login.png'),
+};
